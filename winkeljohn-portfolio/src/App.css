@@ -1,0 +1,30 @@
+.header {
+  height: 100px;
+  background-color:rgb(10,16,69);
+  color: rgb(239,230,230);
+  font-size: 40px;
+  position: relative;
+  display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.about-me{
+  height: 30px;
+  background-color: rgb(239,230,230);
+  position: absolute;
+  right: 0;
+  margin-right: 15px;
+  display: flex;
+}
+.git-link{
+  position: absolute;
+  left: 0;
+  margin-left: 15px;
+  display: flex;
+}
+.linkedin-link{
+  position: absolute;
+  left: 0;
+  margin-left: 85px;
+  display: flex;
+}
